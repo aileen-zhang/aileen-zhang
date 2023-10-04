@@ -1,18 +1,28 @@
 ```console
-az@github:~$ aileen
+az@github:~$ aileen -verbose
 Aileen Zhang v24.0.1
-Email ayzhng@gmail.com for more information
+Email me@aileenz.com for more information
 
 >> education
 Caltech B.S. Computer Science '23
+>>
 >> hobbies
-painting | writing | skating | sleeping
->> favorite ice cream flavor
-coffee
->> fifth-favorite color
-#C0FFEE
+painting | writing | skating
+>> talents
+pixel-pushing :(
+>>
+>> favorite language
+Haskell
+>> "favorite" language
+LaTeX
+>>
+>> teach me
+| how to contribute to open-source projects
+| new (easy) recipes
+| roller skating tricks
+>> learn from me
+how to make a one-page zine
 ```
-
 <!--
 **aileen-zhang/aileen-zhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
